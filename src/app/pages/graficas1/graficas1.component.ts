@@ -34,7 +34,7 @@ export class Graficas1Component implements OnInit {
       'leyenda': '¿Le importa que le den gases?'
     },
   };
-  
+
   constructor() { }
 
   ngOnInit() {
